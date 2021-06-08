@@ -1,0 +1,54 @@
+.aside .logo a::before {
+    border-top: 4px solid #fa5b0f;
+    border-left: 4px solid #fa5b0f;
+}
+
+.aside .logo a::after {
+    border-bottom: 4px solid #fa5b0f;
+    border-right: 4px solid #fa5b0f;
+}
+
+.contact-section .contact-info-item .icon .fa,
+.service-section .service-item .service-item-inner .icon:hover,
+body.dark .style-switcher .toggle-style-switcher .fa,
+body.dark .aside .nav li a:hover,
+body.dark .aside .nav li a.active,
+.contact-section .contact-info-item .icon .fa,
+.service-section .service-item .service-item-inner .icon:hover,
+.aside .nav li a:hover,
+.aside .nav li a.active {
+    color: #fa5b0f;
+}
+
+.aside .nav-toggler span::after,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span,
+.home-section .intro .social-links a {
+    background-color: #fa5b0f;
+}
+
+.home-section .intro .social-links a {
+    background-color: #fa5b0f;
+}
+
+.aside .logo a,
+.about-section .section-title h2,
+.contact-section .contact-title h2,
+.service-section .service-title,
+.service-section .service-item .service-item-inner .icon,
+.about-section .about-content .about-text h3 span {
+    color: #fa5b0f;
+}
+
+.btn {
+    background-color: #fa5b0f;
+}
+
+.about-section .about-content .timeline .timeline-item::before,
+.about-section .about-content .skills .skill-item .progress-in {
+    background-color: #fa5b0f;
+}
+
+.about-section .about-content .timeline .circle-dot {
+    background-color: #fa5b0f;
+}

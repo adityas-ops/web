@@ -1,0 +1,53 @@
+                    .aside .logo a::before {
+                    border-top: 4px solid #ffb400;
+                    border-left: 4px solid #ffb400;
+                }
+                
+                .aside .logo a::after {
+                    border-bottom: 4px solid #ffb400;
+                    border-right: 4px solid #ffb400;
+                }
+                
+                .contact-section .contact-info-item .icon .fa,
+                .service-section .service-item .service-item-inner .icon:hover,
+                body.dark .style-switcher .toggle-style-switcher .fa,
+                body.dark .aside .nav li a:hover,
+                body.dark .aside .nav li a.active,
+                .contact-section .contact-info-item .icon .fa,
+                .service-section .service-item .service-item-inner .icon:hover,
+                .aside .nav li a:hover,
+                .aside .nav li a.active {
+                    color: #ffb400;
+                }
+                
+                .aside .nav-toggler span::after,
+                .aside .nav-toggler span::before,
+                .aside .nav-toggler span,
+                .home-section .intro .social-links a {
+                    background-color: #ffb400;
+                }
+                
+                .home-section .intro .social-links a {
+                    background-color: #ffb400;
+                }
+                
+                .aside .logo a,
+                .about-section .section-title h2,
+                .contact-section .contact-title h2,
+                .service-section .service-title,
+                .service-section .service-item .service-item-inner .icon,
+                .about-section .about-content .about-text h3 span {
+                    color: #ffb400;
+                }
+                
+                .btn {
+                    background-color: #ffb400;
+                }
+                
+                .about-section .about-content .timeline .timeline-item::before,
+                .about-section .about-content .skills .skill-item .progress-in {
+                    background-color: #ffb400;
+                }
+                
+                .about-section .about-content .timeline .circle-dot {
+                    background-color: #ffb400
